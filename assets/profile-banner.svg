@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.48" stop-color="#0B1F33"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="50" x2="1050" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(904 155) rotate(90) scale(210 260)">
+      <stop stop-color="#38BDF8" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <ellipse cx="905" cy="160" rx="265" ry="230" fill="url(#glow)"/>
+  <path d="M0 306C182 250 270 338 448 286C612 239 679 261 811 309C937 355 1065 316 1200 265V360H0V306Z" fill="#0EA5E9" fill-opacity="0.06"/>
+  <path d="M0 326C183 276 284 343 447 308C629 269 723 297 850 330C986 366 1097 326 1200 297" stroke="url(#accent)" stroke-opacity="0.25" stroke-width="2"/>
+  <g opacity="0.72">
+    <path d="M844 70L936 121L936 223L844 274L752 223L752 121L844 70Z" stroke="#38BDF8" stroke-width="2"/>
+    <path d="M844 97L912 135L912 209L844 247L776 209L776 135L844 97Z" stroke="#2DD4BF" stroke-opacity="0.65"/>
+    <circle cx="844" cy="172" r="44" stroke="#818CF8" stroke-width="2" stroke-dasharray="7 7"/>
+    <circle cx="844" cy="172" r="10" fill="#38BDF8"/>
+    <circle cx="844" cy="172" r="22" fill="#38BDF8" fill-opacity="0.12" filter="url(#softGlow)"/>
+    <path d="M844 128V92" stroke="#38BDF8" stroke-width="2"/><circle cx="844" cy="82" r="5" fill="#2DD4BF"/>
+    <path d="M882 151L934 121" stroke="#38BDF8" stroke-width="2"/><circle cx="944" cy="115" r="5" fill="#818CF8"/>
+    <path d="M882 193L936 224" stroke="#2DD4BF" stroke-width="2"/><circle cx="946" cy="230" r="5" fill="#38BDF8"/>
+    <path d="M806 193L752 224" stroke="#818CF8" stroke-width="2"/><circle cx="742" cy="230" r="5" fill="#2DD4BF"/>
+    <path d="M806 151L754 121" stroke="#2DD4BF" stroke-width="2"/><circle cx="744" cy="115" r="5" fill="#38BDF8"/>
+  </g>
+  <text x="74" y="112" fill="#E2E8F0" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="700">MUHAMMAD SLEEM</text>
+  <rect x="76" y="132" width="330" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="178" fill="#7DD3FC" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">HEALTHCARE AI · DATA ANALYTICS</text>
+  <text x="76" y="214" fill="#CBD5E1" font-size="21" font-family="Segoe UI, Arial, sans-serif">Clinical insight translated into intelligent systems.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="76" y="250" width="112" height="38" rx="19" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="99" y="274" fill="#BAE6FD">AI &amp; ML</text>
+    <rect x="202" y="250" width="154" height="38" rx="19" fill="#2DD4BF" fill-opacity="0.11" stroke="#2DD4BF" stroke-opacity="0.5"/>
+    <text x="223" y="274" fill="#99F6E4">Computer Vision</text>
+    <rect x="370" y="250" width="142" height="38" rx="19" fill="#818CF8" fill-opacity="0.11" stroke="#818CF8" stroke-opacity="0.5"/>
+    <text x="393" y="274" fill="#C7D2FE">Health Tech</text>
+  </g>
+  <text x="1080" y="326" fill="#94A3B8" font-size="14" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Cairo, Egypt</text>
+</svg>
