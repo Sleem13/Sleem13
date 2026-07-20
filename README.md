@@ -4,14 +4,16 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sleemisme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sleemisme)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-14B8A6?style=for-the-badge&logo=githubpages&logoColor=white)](https://sleem13.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sleem13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sleem13)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsleem03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sleemisme-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sleemisme)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2DD4BF?style=for-the-badge&logo=githubpages&logoColor=white)](https://sleem13.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sleem13-818CF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sleem13)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0B1F33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsleem03@gmail.com)
 
 </div>
 
 ## About Me
+
+I spent years reasoning through rehabilitation cases before I started reasoning through data pipelines — and the two disciplines share the same instincts: **observe carefully, form a hypothesis, test it, and stay honest about what the evidence shows.** That's the lens I bring to every model, dashboard, and application I build.
 
 I am a **Healthcare AI and Data Analytics practitioner** with a professional background in physical therapy. I translate clinical and operational problems into reproducible data pipelines, machine-learning models, computer-vision systems, analytical dashboards, and usable applications.
 
@@ -23,7 +25,7 @@ My work sits at the intersection of:
 - **Data analytics, SQL, and business intelligence**
 - **Frontend interfaces and AI-powered applications**
 
-> **Core direction:** build systems that are technically rigorous, understandable to users, and useful in real-world settings.
+> **Core direction:** build systems that are technically rigorous, understandable to the people using them, and useful in real-world settings.
 
 ---
 
@@ -194,6 +196,8 @@ Collaborative work involving computer vision, data engineering, model evaluation
 
 ## Engineering Approach
 
+Every project moves through the same discipline, whether the output is a model, a dashboard, or an interface:
+
 ```mermaid
 flowchart LR
     A[Real-world problem] --> B[Data and requirements]
@@ -208,23 +212,23 @@ flowchart LR
 
 My projects aim to be:
 
-- **Problem-driven** rather than technology-driven
-- **Reproducible** through scripts, configuration, and documentation
-- **Measurable** with appropriate evaluation metrics
-- **Explainable**, especially in healthcare applications
-- **Usable** through dashboards, APIs, or frontend interfaces
-- **Honest** about limitations, maturity, and incomplete work
+- **Problem-driven** — the task defines the tools, not the other way around
+- **Reproducible** — scripts, configuration, and documentation over one-off notebooks
+- **Measurable** — evaluated against metrics that match the real objective
+- **Explainable**, especially where a model touches a healthcare decision
+- **Usable** through dashboards, APIs, or frontend interfaces people open daily
+- **Honest** about limitations, maturity, and what's still unfinished
 
 ---
 
 ## Current Focus
 
 ```text
-Healthcare AI          ███████████████████░
-Computer Vision        ██████████████████░░
-Data Analytics & BI    ██████████████████░░
-AI Agent Systems       ████████████████░░░░
-Frontend Integration   ███████████████░░░░░
+Healthcare AI          ███████████████████░  95%
+Computer Vision        ██████████████████░░  90%
+Data Analytics & BI    ██████████████████░░  90%
+AI Agent Systems       ████████████████░░░░  80%
+Frontend Integration   ███████████████░░░░░  75%
 ```
 
 - End-to-end Egyptian automatic license plate recognition
@@ -266,7 +270,7 @@ Frontend Integration   ███████████████░░░░
 
 ## Collaboration
 
-I am interested in collaborating on:
+I'm interested in collaborating on:
 
 - Healthcare AI and clinical decision-support systems
 - Computer vision and medical imaging
@@ -276,7 +280,7 @@ I am interested in collaborating on:
 
 <div align="center">
 
-### Let’s build systems where technical quality meets real human impact.
+### Let's build systems where technical quality meets real human impact.
 
 [LinkedIn](https://www.linkedin.com/in/sleemisme) ·
 [Portfolio](https://sleem13.github.io/Portfolio/) ·
